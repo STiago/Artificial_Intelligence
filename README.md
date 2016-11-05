@@ -4,4 +4,4 @@ Repositorio creado con el proyecto desarrollado para la asignatua Inteligencia A
 
 La documentación correspondiente a este proyecto se encuentra en:
 
-* [Documentación](https://github.com/STiago/Artificial_Intelligence/blob/master/memoria/Memoria.pdf)
+* [Documentación](https://github.com/STiago/Artificial_Intelligence/blob/master/memoria/Memoria.pdf) .
